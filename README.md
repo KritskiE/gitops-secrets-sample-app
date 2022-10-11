@@ -2,6 +2,7 @@
 
 This is single application that uses [Bitnami sealed secrets](https://github.com/bitnami-labs/sealed-secrets) for
 password and certificates.
+RSA-> kontroler na klasteru ima privatni kljuc, sealed se sifruje sa masine, moze da se pusuje na gh, ali samo sa sealom(public k) ...
 
 ## How to run locally
 
